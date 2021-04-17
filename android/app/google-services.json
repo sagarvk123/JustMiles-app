@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "446032011895",
+    "firebase_url": "https://just-miles-891eb.firebaseio.com",
+    "project_id": "just-miles-891eb",
+    "storage_bucket": "just-miles-891eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446032011895:android:faa75f96b9c23f6cc95c72",
+        "android_client_info": {
+          "package_name": "com.justmiles_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446032011895-oggrg04a68r21mmv5hvmo70o33qqcjmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9RCAs0NKocz-Mh0q_g074dl7Xqwriyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446032011895-oggrg04a68r21mmv5hvmo70o33qqcjmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
